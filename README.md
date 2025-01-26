@@ -17,7 +17,7 @@ An e-commerce web application built using PHP, HTML, CSS, MySQL, and XAMPP, prov
 # To run this project locally, follow these steps:
 
 # 1.Clone the repository:
-  git clone https://github.com/your-username/ecommerce-web-app.git
+  git clone https://github.com/sonujaiswal450/Ecommerce-Web-Application.git
 
 # 2.Start XAMPP:
  Make sure Apache and MySQL are running in XAMPP.
